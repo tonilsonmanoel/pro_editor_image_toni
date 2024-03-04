@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pro_image_editor/models/editor_image.dart';
-import 'package:pro_image_editor/pro_image_editor.dart';
+import 'package:pro_editor_image_toni/models/editor_image.dart';
+import 'package:pro_editor_image_toni/pro_image_editor.dart';
 
 import '../../../models/filter_state_history.dart';
 import '../../../widgets/auto_image.dart';

@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_font_picker/flutter_font_picker.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pro_image_editor/utils/design_mode.dart';
+import 'package:pro_editor_image_toni/utils/design_mode.dart';
 import 'package:rounded_background_text/rounded_background_text.dart';
 
 import '../models/custom_widgets.dart';

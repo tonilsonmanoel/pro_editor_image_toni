@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
-import 'package:pro_image_editor/widgets/color_picker/bar_color_picker.dart';
+import 'package:pro_editor_image_toni/widgets/color_picker/bar_color_picker.dart';
 
 @GenerateNiceMocks([MockSpec<BarColorPicker>()])
 void main() {

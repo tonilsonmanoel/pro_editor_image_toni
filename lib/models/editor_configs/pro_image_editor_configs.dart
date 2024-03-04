@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pro_image_editor/models/editor_configs/sticker_editor_configs.dart';
-import 'package:pro_image_editor/models/import_export/import_state_history.dart';
+import 'package:pro_editor_image_toni/models/editor_configs/sticker_editor_configs.dart';
+import 'package:pro_editor_image_toni/models/import_export/import_state_history.dart';
 
 import '../custom_widgets.dart';
 import 'crop_rotate_editor_configs.dart';

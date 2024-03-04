@@ -338,7 +338,7 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "pro_image_editor",
+      "name": "pro_editor_image_toni",
       "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
@@ -542,7 +542,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-03-03T21:54:11.205508Z",
+  "generated": "2024-03-04T02:14:10.031872Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:pro_image_editor/pro_image_editor.dart';
+import 'package:pro_editor_image_toni/pro_image_editor.dart';
 
 class EditorTeste extends StatefulWidget {
   const EditorTeste({super.key});
@@ -20,8 +20,6 @@ class _EditorTesteState extends State<EditorTeste> {
     super.initState();
     voidmfas();
   }
-
-  
 
   void voidmfas() {
     var editorimg = ProImageEditor.asset(

@@ -2,7 +2,7 @@ import 'package:extended_image/extended_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:pro_image_editor/modules/crop_rotate_editor/crop_rotate_editor.dart';
+import 'package:pro_editor_image_toni/modules/crop_rotate_editor/crop_rotate_editor.dart';
 
 import '../../fake/fake_image.dart';
 

@@ -5,7 +5,7 @@ import 'package:colorfilter_generator/presets.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pro_image_editor/models/filter_state_history.dart';
+import 'package:pro_editor_image_toni/models/filter_state_history.dart';
 import 'package:screenshot/screenshot.dart';
 
 import '../../models/custom_widgets.dart';

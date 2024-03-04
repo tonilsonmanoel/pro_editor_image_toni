@@ -716,13 +716,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "pro_image_editor",
+      "name": "pro_editor_image_toni",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-03-04T01:36:32.949625Z",
+  "generated": "2024-03-04T02:04:33.225174Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }

@@ -2,14 +2,14 @@ import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pro_image_editor/modules/crop_rotate_editor/crop_rotate_editor.dart';
-import 'package:pro_image_editor/modules/emoji_editor.dart';
-import 'package:pro_image_editor/modules/filter_editor/filter_editor.dart';
-import 'package:pro_image_editor/modules/paint_editor/paint_editor.dart';
-import 'package:pro_image_editor/modules/text_editor.dart';
+import 'package:pro_editor_image_toni/modules/crop_rotate_editor/crop_rotate_editor.dart';
+import 'package:pro_editor_image_toni/modules/emoji_editor.dart';
+import 'package:pro_editor_image_toni/modules/filter_editor/filter_editor.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/paint_editor.dart';
+import 'package:pro_editor_image_toni/modules/text_editor.dart';
 
-import 'package:pro_image_editor/pro_image_editor_main.dart';
-import 'package:pro_image_editor/widgets/layer_widget.dart';
+import 'package:pro_editor_image_toni/pro_image_editor_main.dart';
+import 'package:pro_editor_image_toni/widgets/layer_widget.dart';
 
 import 'fake/fake_image.dart';
 

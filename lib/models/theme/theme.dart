@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:pro_image_editor/models/theme/theme_sticker_editor.dart';
+import 'package:pro_editor_image_toni/models/theme/theme_sticker_editor.dart';
 
 import 'theme_crop_rotate_editor.dart';
 import 'theme_emoji_editor.dart';

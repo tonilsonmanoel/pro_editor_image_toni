@@ -11,8 +11,8 @@ import 'package:flutter/foundation.dart' hide Category;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pro_image_editor/pro_image_editor.dart';
-import 'package:pro_image_editor/widgets/loading_dialog.dart';
+import 'package:pro_editor_image_toni/pro_image_editor.dart';
+import 'package:pro_editor_image_toni/widgets/loading_dialog.dart';
 import 'package:emoji_picker_flutter/emoji_picker_flutter.dart';
 
 void main() {

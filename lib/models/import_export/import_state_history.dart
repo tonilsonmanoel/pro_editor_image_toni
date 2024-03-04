@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/services.dart';
-import 'package:pro_image_editor/models/import_export/import_state_history_configs.dart';
-import 'package:pro_image_editor/models/layer.dart';
+import 'package:pro_editor_image_toni/models/import_export/import_state_history_configs.dart';
+import 'package:pro_editor_image_toni/models/layer.dart';
 
 import '../editor_image.dart';
 import '../filter_state_history.dart';

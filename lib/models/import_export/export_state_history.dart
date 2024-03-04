@@ -4,7 +4,7 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:pro_image_editor/models/import_export/utils/export_import_enum.dart';
+import 'package:pro_editor_image_toni/models/import_export/utils/export_import_enum.dart';
 import 'package:screenshot/screenshot.dart';
 
 import '../editor_image.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:network_image_mock/network_image_mock.dart';
-import 'package:pro_image_editor/modules/paint_editor/paint_editor.dart';
-import 'package:pro_image_editor/modules/paint_editor/painting_canvas.dart';
-import 'package:pro_image_editor/widgets/color_picker/bar_color_picker.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/paint_editor.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/painting_canvas.dart';
+import 'package:pro_editor_image_toni/widgets/color_picker/bar_color_picker.dart';
 
 import '../../fake/fake_image.dart';
 

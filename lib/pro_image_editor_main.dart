@@ -7,8 +7,8 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pro_image_editor/models/import_export/utils/export_import_enum.dart';
-import 'package:pro_image_editor/modules/sticker_editor.dart';
+import 'package:pro_editor_image_toni/models/import_export/utils/export_import_enum.dart';
+import 'package:pro_editor_image_toni/modules/sticker_editor.dart';
 import 'package:screenshot/screenshot.dart';
 import 'package:vibration/vibration.dart';
 

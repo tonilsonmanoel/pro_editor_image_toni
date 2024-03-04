@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pro_image_editor/models/paint_editor/painted_model.dart';
-import 'package:pro_image_editor/modules/paint_editor/utils/draw/draw_canvas.dart';
-import 'package:pro_image_editor/modules/paint_editor/utils/paint_editor_enum.dart';
+import 'package:pro_editor_image_toni/models/paint_editor/painted_model.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/utils/draw/draw_canvas.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/utils/paint_editor_enum.dart';
 
 void main() {
   testWidgets('DrawCanvas should handle hit testing for different modes',

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:network_image_mock/network_image_mock.dart';
-import 'package:pro_image_editor/models/editor_configs/paint_editor_configs.dart';
-import 'package:pro_image_editor/models/i18n/i18n.dart';
-import 'package:pro_image_editor/models/icons/icons.dart';
-import 'package:pro_image_editor/models/layer.dart';
-import 'package:pro_image_editor/models/theme/theme.dart';
-import 'package:pro_image_editor/modules/paint_editor/painting_canvas.dart';
-import 'package:pro_image_editor/modules/paint_editor/utils/paint_editor_enum.dart';
-import 'package:pro_image_editor/utils/design_mode.dart';
+import 'package:pro_editor_image_toni/models/editor_configs/paint_editor_configs.dart';
+import 'package:pro_editor_image_toni/models/i18n/i18n.dart';
+import 'package:pro_editor_image_toni/models/icons/icons.dart';
+import 'package:pro_editor_image_toni/models/layer.dart';
+import 'package:pro_editor_image_toni/models/theme/theme.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/painting_canvas.dart';
+import 'package:pro_editor_image_toni/modules/paint_editor/utils/paint_editor_enum.dart';
+import 'package:pro_editor_image_toni/utils/design_mode.dart';
 
 import '../../fake/fake_image.dart';
 

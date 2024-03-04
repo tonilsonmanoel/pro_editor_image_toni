@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pro_image_editor/models/editor_configs/text_editor_configs.dart';
-import 'package:pro_image_editor/modules/text_editor.dart';
-import 'package:pro_image_editor/utils/design_mode.dart';
-import 'package:pro_image_editor/widgets/layer_widget.dart';
+import 'package:pro_editor_image_toni/models/editor_configs/text_editor_configs.dart';
+import 'package:pro_editor_image_toni/modules/text_editor.dart';
+import 'package:pro_editor_image_toni/utils/design_mode.dart';
+import 'package:pro_editor_image_toni/widgets/layer_widget.dart';
 
 void main() {
   group('TextEditor Tests', () {

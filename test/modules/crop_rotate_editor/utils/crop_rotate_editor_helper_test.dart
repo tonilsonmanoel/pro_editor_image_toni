@@ -1,7 +1,7 @@
 import 'package:extended_image/extended_image.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pro_image_editor/modules/crop_rotate_editor/utils/crop_rotate_editor_helper.dart';
+import 'package:pro_editor_image_toni/modules/crop_rotate_editor/utils/crop_rotate_editor_helper.dart';
 
 import '../../../fake/fake_image.dart';
 

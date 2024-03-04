@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 import 'package:network_image_mock/network_image_mock.dart';
-import 'package:pro_image_editor/models/editor_image.dart';
-import 'package:pro_image_editor/utils/design_mode.dart';
-import 'package:pro_image_editor/widgets/auto_image.dart';
+import 'package:pro_editor_image_toni/models/editor_image.dart';
+import 'package:pro_editor_image_toni/utils/design_mode.dart';
+import 'package:pro_editor_image_toni/widgets/auto_image.dart';
 import 'package:mockito/annotations.dart';
 
 import '../fake/fake_image.dart';

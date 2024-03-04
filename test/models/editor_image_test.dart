@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pro_image_editor/models/editor_image.dart';
+import 'package:pro_editor_image_toni/models/editor_image.dart';
 
 import '../fake/fake_image.dart';
 

@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pro_image_editor/utils/theme_functions.dart';
+import 'package:pro_editor_image_toni/utils/theme_functions.dart';
 import 'package:rounded_background_text/rounded_background_text.dart';
 
 import '../models/i18n/i18n.dart';
