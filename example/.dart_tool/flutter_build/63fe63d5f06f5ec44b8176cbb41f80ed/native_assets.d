@@ -1,0 +1,1 @@
+ C:\\Users\\Tonilson\\Downloads\\pro_image_editor-2.4.3\\example\\.dart_tool\\flutter_build\\63fe63d5f06f5ec44b8176cbb41f80ed\\native_assets.yaml: 
