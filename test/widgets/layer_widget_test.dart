@@ -9,6 +9,7 @@ void main() {
   testWidgets('LayerWidget test', (WidgetTester tester) async {
     // Create a mock layer for testing.
     final layer = TextLayerData(
+      fontStyle: TextStyle(),
       text: 'Test Text',
       color: Colors.white,
       background: Colors.blue,
